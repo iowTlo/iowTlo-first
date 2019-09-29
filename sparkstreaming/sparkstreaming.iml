@@ -12,6 +12,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-core_2.11:2.1.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.avro:avro-mapred:hadoop2:1.7.7" level="project" />
     <orderEntry type="library" name="Maven: org.apache.avro:avro-ipc:1.7.7" level="project" />
@@ -144,6 +145,5 @@
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-jackson:1.8.1" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.18" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming_2.11:2.1.2" level="project" />
-    <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
   </component>
 </module>
